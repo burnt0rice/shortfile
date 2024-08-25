@@ -69,3 +69,9 @@ curl http://localhost:3000/api/d/:id
 <a target="_blank" href="https://icons8.com/icon/g8mOI88XbBJX/happy-file">Happy File</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 [Embedding Vue.js Apps in Go](https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/)
+
+
+## Stroll through ricefield
+
+If you like this project, you can explore more of my projects on my [GitHub profile](https://github.com/burnt0rice) or on my [website](https://ricefield.ch).
+
